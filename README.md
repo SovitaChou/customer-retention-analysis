@@ -23,6 +23,6 @@ Python (pandas, matplotlib, seaborn, scipy), Jupyter Notebook.
 3. Open `notebooks/01_eda_funnel_analysis.ipynb` in Jupyter.
 
 ## Data
-The dataset is in the `data/` folder – it includes 18 features like demographics, product details, and session metrics. See [`data/DATASET_README.md`](data/DATASET_README.md).
+The dataset is in the `data/` folder. It includes 18 features like demographics, product details, and session metrics. See [`data/DATASET_README.md`](data/DATASET_README.md).
 
 Feel free to explore and check back for updates! (hopefully complete :P)

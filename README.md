@@ -19,7 +19,7 @@ Python (pandas, matplotlib, seaborn, scipy), Jupyter Notebook.
 
 ## How to Run
 1. Clone this repository.
-2. Install required libraries: `pip install -r requirements.txt` (if available).
+2. Install required libraries: sys, seaborn, matplotlib.pyplot, pandas, numpy.
 3. Open `notebooks/01_eda_funnel_analysis.ipynb` in Jupyter.
 
 ## Data
